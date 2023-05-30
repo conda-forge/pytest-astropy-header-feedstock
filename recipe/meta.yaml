@@ -19,12 +19,13 @@ build:
 
 requirements:
   host:
-    - python
+    - python >=3.7
     - pip
-    - pytest >=3.0
+    - pytest >=4.6
+    - setuptools_scm
   run:
-    - python
-    - pytest >=3.0
+    - python >=3.7
+    - pytest >=4.6
 
 test:
   imports:
@@ -44,3 +45,4 @@ extra:
   recipe-maintainers:
     - astrofrog-conda-forge
     - bsipocz
+    - mwcraig
