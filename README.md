@@ -1,11 +1,11 @@
-About pytest-astropy-header
-===========================
+About pytest-astropy-header-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-astropy-header-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/astropy/pytest-astropy-header
 
 Package license: BSD 3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-astropy-header-feedstock/blob/main/LICENSE.txt)
 
 Summary: Pytest plugin to add diagnostic information to the header of the test output
 
