@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytest-astropy-
 
 Home: https://github.com/astropy/pytest-astropy-header
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Summary: Pytest plugin to add diagnostic information to the header of the test output
 
@@ -147,6 +147,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@astrofrog-conda-forge](https://github.com/astrofrog-conda-forge/)
+* [@astrofrog](https://github.com/astrofrog/)
 * [@bsipocz](https://github.com/bsipocz/)
+* [@mwcraig](https://github.com/mwcraig/)
 
